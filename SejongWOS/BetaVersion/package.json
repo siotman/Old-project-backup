@@ -59,7 +59,7 @@
     "axios": "^0.16.1",
     "exceljs": "^1.6.3",
     "growl": "^1.10.5",
-    "nodemailer": "^4.7.0",
+    "nodemailer": "^6.4.16",
     "nodemailer-smtp-pool": "^2.8.3",
     "python-shell": "^1.0.6",
     "tail": "^2.0.1",
